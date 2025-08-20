@@ -6,7 +6,7 @@ const Projects: Project[] = [
     title: 'egxo.dev',
     description:
       'Current verson one of my personal portfolio, built to showcase projects and personal branding. Built with Next.js, TypeScript, Tailwind CSS, MDX, and more.',
-    href: 'https://egxo-dev',
+    href: 'https://egxo.dev',
     years: ['2025'],
     type: 'project',
     image: '/projects/egxo-dev.png',
