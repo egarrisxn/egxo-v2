@@ -26,7 +26,7 @@ export default async function HomePage() {
           </Link>
           |<Link href='/posts'>posts</Link>|<Link href='/thoughts'>thoughts</Link>|
           <Link href='/contact'>contact</Link>|
-          <Link external href='https://egxworld.vercel.app'>
+          <Link external href='https://egxo-v1.vercel.app'>
             v1
           </Link>
         </nav>

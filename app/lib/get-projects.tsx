@@ -119,15 +119,6 @@ const Projects: Project[] = [
     type: 'project',
     image: '/projects/unofficialmerch.png',
   },
-  // {
-  //   title: 'Pushin Mongo Movies',
-  //   description:
-  //     'A full-stack movie database app powered by the MERN stack for discovering and managing movies. Built with Next.js, TypeScript, Express, MongoDB, Tailwind CSS, and more.',
-  //   href: 'https://pushin-mongo-movies.vercel.app',
-  //   years: ['2023'],
-  //   type: 'project',
-  //   image: '/projects/pushinmongo.png',
-  // },
   {
     title: 'egxo.fyi',
     description:
@@ -138,14 +129,23 @@ const Projects: Project[] = [
     image: '/projects/egxofyi.png',
   },
   {
-    title: 'EG|WORLD v1',
+    title: 'EGXO v1 v1',
     description:
       'Verson one of my personal portfolio, built to showcase projects and personal branding. Built with Next.js, JavaScript, Tailwind CSS, and more.',
-    href: 'https://egxworld.vercel.app',
+    href: 'https://egxo-v1.vercel.app',
     years: ['2023'],
     type: 'project',
-    image: '/projects/egxworldv1.png',
+    image: '/projects/egxo-v1.png',
   },
+  // {
+  //   title: 'Pushin Mongo Movies',
+  //   description:
+  //     'A full-stack movie database app powered by the MERN stack for discovering and managing movies. Built with Next.js, TypeScript, Express, MongoDB, Tailwind CSS, and more.',
+  //   href: 'https://pushin-mongo-movies.vercel.app',
+  //   years: ['2023'],
+  //   type: 'project',
+  //   image: '/projects/pushinmongo.png',
+  // },
 ]
 
 export const getProjects = cache(async (): Promise<Project[]> => {

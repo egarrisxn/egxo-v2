@@ -106,7 +106,7 @@ export default function AboutPage() {
 
         <p>
           A glimpse into the{' '}
-          <Link external href='https://egxworld.vercel.app'>
+          <Link external href='https://egxo-v1.vercel.app'>
             past <Arrow />
           </Link>
         </p>
