@@ -7,6 +7,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-v15-black?logo=next.js)](https://nextjs.org)
 [![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen?logo=vercel)](https://egxo-v2.vercel.app)
 
+<img width="1200" height="630" alt="egxo-v2" src="https://github.com/user-attachments/assets/c8012c5e-4121-4bd3-9752-3daff6581dfe" />
+
 ## Description
 
 Version 2 of my personal website/portfolio/whatever.
