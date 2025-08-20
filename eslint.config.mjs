@@ -41,6 +41,6 @@ export default defineConfig([
     },
   },
   {
-    ignores: ['**/node_modules/', '.git/', '.vscode/', '.next/', 'public/'],
+    ignores: ['**/node_modules/', '.git/', '.vscode/', '.next/', 'public/', 'next-env.d.ts'],
   },
 ])
