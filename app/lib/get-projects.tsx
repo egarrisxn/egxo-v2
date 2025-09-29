@@ -62,7 +62,7 @@ const Projects: Project[] = [
     description:
       'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
     href: 'https://xprod.vercel.app',
-    years: ['2024'],
+    years: ['2025'],
     type: 'project',
     image: '/projects/xprod.png',
   },
@@ -71,7 +71,7 @@ const Projects: Project[] = [
     description:
       'An interactive AI chatbot powered by Grok, designed for seamless and responsive conversations. Built with Next.js, TypeScript, Next-Auth, Tailwind CSS, and more.',
     href: 'https://xochatbot.vercel.app',
-    years: ['2025'],
+    years: ['2024'],
     type: 'project',
     image: '/projects/xochatbot.png',
   },
@@ -103,20 +103,11 @@ const Projects: Project[] = [
     image: '/projects/resumebuilder.png',
   },
   {
-    title: 'Sway Bae Official (2024)',
-    description:
-      'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
-    href: 'https://swaybae-v1.vercel.app',
-    years: ['2024'],
-    type: 'project',
-    image: '/projects/swaybae-v1.png',
-  },
-  {
     title: 'Resplashpad',
     description:
       'A high-resolution photo browser powered by the Unsplash API. Built with Vite, TypeScript, TanStack Query, Tailwind CSS, and more.',
     href: 'https://resplashpad.vercel.app',
-    years: ['2023'],
+    years: ['2024'],
     type: 'project',
     image: '/projects/resplashpad.png',
   },
@@ -155,6 +146,15 @@ const Projects: Project[] = [
     years: ['2023'],
     type: 'project',
     image: '/projects/egxo-v1.png',
+  },
+  {
+    title: 'Sway Bae Official (2023)',
+    description:
+      'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
+    href: 'https://swaybae-v1.vercel.app',
+    years: ['2023'],
+    type: 'project',
+    image: '/projects/swaybae-v1.png',
   },
 ]
 
