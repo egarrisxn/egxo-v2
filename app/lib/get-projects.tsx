@@ -11,15 +11,7 @@ const Projects: Project[] = [
     type: 'project',
     image: '/projects/egxo-dev.png',
   },
-  {
-    title: 'Patricia Penisten: A Life Remembered',
-    description:
-      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
-    href: 'https://patricia-penisten.com',
-    years: ['2025'],
-    type: 'project',
-    image: '/projects/pgp.png',
-  },
+
   {
     title: 'Quik|Res',
     description:
@@ -39,6 +31,15 @@ const Projects: Project[] = [
     image: '/projects/manylinks.png',
   },
   {
+    title: 'Sway Bae Official 2025',
+    description:
+      'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
+    href: 'https://swaybae.net',
+    years: ['2025'],
+    type: 'project',
+    image: '/projects/swaybae-v2.png',
+  },
+  {
     title: 'ScribeVoice',
     description:
       'A voice-to-text transcription tool for capturing notes, ideas, and conversations. Built with Next.js, TypeScript, Supabase, OpenAI, Tailwind CSS, and more.',
@@ -48,16 +49,16 @@ const Projects: Project[] = [
     image: '/projects/scribevoice.png',
   },
   {
-    title: 'XO Chatbot',
+    title: 'Patricia Penisten: A Life Remembered',
     description:
-      'An interactive AI chatbot powered by Grok, designed for seamless and responsive conversations. Built with Next.js, TypeScript, Next-Auth, Tailwind CSS, and more.',
-    href: 'https://xochatbot.vercel.app',
+      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
+    href: 'https://patricia-penisten.com',
     years: ['2025'],
     type: 'project',
-    image: '/projects/xochatbot.png',
+    image: '/projects/pgp.png',
   },
   {
-    title: 'xprod',
+    title: 'XProd',
     description:
       'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
     href: 'https://xprod.vercel.app',
@@ -66,13 +67,13 @@ const Projects: Project[] = [
     image: '/projects/xprod.png',
   },
   {
-    title: 'Sway Bae Official',
+    title: 'XO Chatbot',
     description:
-      'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
-    href: 'https://swaybae.net',
-    years: ['2024'],
+      'An interactive AI chatbot powered by Grok, designed for seamless and responsive conversations. Built with Next.js, TypeScript, Next-Auth, Tailwind CSS, and more.',
+    href: 'https://xochatbot.vercel.app',
+    years: ['2025'],
     type: 'project',
-    image: '/projects/swaybae.png',
+    image: '/projects/xochatbot.png',
   },
   {
     title: 'International Worldwide',
@@ -100,6 +101,15 @@ const Projects: Project[] = [
     years: ['2024'],
     type: 'project',
     image: '/projects/resumebuilder.png',
+  },
+  {
+    title: 'Sway Bae Official (2024)',
+    description:
+      'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
+    href: 'https://swaybae-v1.vercel.app',
+    years: ['2024'],
+    type: 'project',
+    image: '/projects/swaybae-v1.png',
   },
   {
     title: 'Resplashpad',
@@ -146,15 +156,6 @@ const Projects: Project[] = [
     type: 'project',
     image: '/projects/egxo-v1.png',
   },
-  // {
-  //   title: 'Pushin Mongo Movies',
-  //   description:
-  //     'A full-stack movie database app powered by the MERN stack for discovering and managing movies. Built with Next.js, TypeScript, Express, MongoDB, Tailwind CSS, and more.',
-  //   href: 'https://pushin-mongo-movies.vercel.app',
-  //   years: ['2023'],
-  //   type: 'project',
-  //   image: '/projects/pushinmongo.png',
-  // },
 ]
 
 export const getProjects = cache(async (): Promise<Project[]> => {
