@@ -27,20 +27,6 @@ export default function ResumePage() {
           </p>
         </object>
       </section>
-      <br />
-      <section>
-        <p>Standard A4 Format</p>
-        <object data='/other/EG-A4-RESUME-2025.pdf' type='application/pdf' className={styles.pdfA4}>
-          <p>
-            Your browser does not support PDFs.
-            <a href='/other/EG-A4-RESUME-2025.pdf' download>
-              Download the resume
-            </a>
-            .
-          </p>
-        </object>
-      </section>
-      <br />
     </>
   )
 }
