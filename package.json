@@ -69,19 +69,5 @@
     "typescript": "5.8.3",
     "typescript-plugin-css-modules": "5.1.0"
   },
-  "prettier": {
-    "semi": false,
-    "tabWidth": 2,
-    "printWidth": 100,
-    "bracketSpacing": false,
-    "singleQuote": true,
-    "jsxSingleQuote": true
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "sharp",
-      "unrs-resolver"
-    ]
-  }
+  "packageManager": "pnpm@10.25.0"
 }
