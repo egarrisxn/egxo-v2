@@ -13,7 +13,7 @@ const Projects: Project[] = [
   },
 
   {
-    title: 'Quik|Res',
+    title: 'QuikRes',
     description:
       'An AI-powered resume-to-website generator for creating polished personal sites with ease. Built with Next.js, TypeScript, AWS S3, OpenAI, Clerk, Redis, Tailwind CSS, and more.',
     href: 'https://quikres.vercel.app',
@@ -31,7 +31,7 @@ const Projects: Project[] = [
     image: '/projects/manylinks.png',
   },
   {
-    title: 'Sway Bae Official 2025',
+    title: 'Sway Bae Official v2',
     description:
       'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
     href: 'https://swaybae.net',
@@ -67,7 +67,7 @@ const Projects: Project[] = [
     image: '/projects/xprod.png',
   },
   {
-    title: 'XO Chatbot',
+    title: 'XOChatbot',
     description:
       'An interactive AI chatbot powered by Grok, designed for seamless and responsive conversations. Built with Next.js, TypeScript, Next-Auth, Tailwind CSS, and more.',
     href: 'https://xochatbot.vercel.app',
@@ -85,7 +85,7 @@ const Projects: Project[] = [
     image: '/projects/internationalworldwide.png',
   },
   {
-    title: 'XO Starter',
+    title: 'XOStarter',
     description:
       'A clean and flexible Next.js starter template focused on performance and scalability. Built with Next.js, TypeScript, Tailwind CSS, and more.',
     href: 'https://xostarter.vercel.app',
@@ -94,7 +94,7 @@ const Projects: Project[] = [
     image: '/projects/xostarter.png',
   },
   {
-    title: 'ATS | Resbuilder',
+    title: 'ATS Resbuilder',
     description:
       'A professional resume builder focused on ATS compatibility for better hiring results. Built with Next.js, JavaScript, MDX, Tailwind CSS, and more.',
     href: 'https://ats-resbuilder.vercel.app',
@@ -148,7 +148,7 @@ const Projects: Project[] = [
     image: '/projects/egxo-v1.png',
   },
   {
-    title: 'Sway Bae Official (2023)',
+    title: 'Sway Bae Official v1',
     description:
       'The official website for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     href: 'https://swaybae-v1.vercel.app',
