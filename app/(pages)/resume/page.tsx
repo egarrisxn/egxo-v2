@@ -17,10 +17,10 @@ export default function ResumePage() {
 
       <section>
         <p>Standard US Letter Format</p>
-        <object data='/other/EG-US-RESUME-2025.pdf' type='application/pdf' className={styles.pdfUS}>
+        <object data='/other/EG-US-RESUME-2026.pdf' type='application/pdf' className={styles.pdfUS}>
           <p>
             Your browser does not support PDFs.
-            <a href='/other/EG-US-RESUME-2025.pdf' download>
+            <a href='/other/EG-US-RESUME-2026.pdf' download>
               Download the resume
             </a>
             .

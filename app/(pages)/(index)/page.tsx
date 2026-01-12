@@ -37,7 +37,7 @@ export default async function HomePage() {
         </h2>
         <h3>
           Available for work //{' '}
-          <a href='/other/EG-US-RESUME-2025.pdf' download>
+          <a href='/other/EG-US-RESUME-2026.pdf' download>
             Resume
           </a>
         </h3>
