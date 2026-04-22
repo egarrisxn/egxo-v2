@@ -67,15 +67,6 @@ const Projects: Project[] = [
     image: '/projects/xprod.png',
   },
   {
-    title: 'XOChatbot',
-    description:
-      'An interactive AI chatbot powered by Grok, designed for seamless and responsive conversations. Built with Next.js, TypeScript, Next-Auth, Tailwind CSS, and more.',
-    href: 'https://xochatbot.vercel.app',
-    years: ['2024'],
-    type: 'project',
-    image: '/projects/xochatbot.png',
-  },
-  {
     title: 'International Worldwide',
     description:
       'A multilingual platform for practicing coding challenges with internationalization support. Built with Next.js, JavaScript, Next-Intl, Tailwind CSS, and more.',
@@ -83,15 +74,6 @@ const Projects: Project[] = [
     years: ['2024'],
     type: 'project',
     image: '/projects/internationalworldwide.png',
-  },
-  {
-    title: 'XOStarter',
-    description:
-      'A clean and flexible Next.js starter template focused on performance and scalability. Built with Next.js, TypeScript, Tailwind CSS, and more.',
-    href: 'https://xostarter.vercel.app',
-    years: ['2024'],
-    type: 'project',
-    image: '/projects/xostarter.png',
   },
   {
     title: 'ATS Resbuilder',
@@ -128,15 +110,6 @@ const Projects: Project[] = [
     years: ['2023'],
     type: 'project',
     image: '/projects/unofficialmerch.png',
-  },
-  {
-    title: 'egxo.fyi',
-    description:
-      'A personal blog to share thoughts, insights, and development experiences. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
-    href: 'https://egxo.fyi',
-    years: ['2023'],
-    type: 'project',
-    image: '/projects/egxo-fyi.png',
   },
   {
     title: 'EGXO v1',
