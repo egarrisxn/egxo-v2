@@ -3,6 +3,15 @@ import type {Project} from './types'
 
 const Projects: Project[] = [
   {
+    title: 'Paste2Playlist',
+    description:
+      'A simple tool for creating Spotify playlists from text. Built with Next.js, TypeScript, Spotify API, Tailwind CSS, and more.',
+    href: 'https://paste2playlist.vercel.app',
+    years: ['2026'],
+    type: 'project',
+    image: '/projects/paste2playlist.png',
+  },
+  {
     title: 'egxo.dev',
     description:
       'Current verson one of my personal portfolio, built to showcase projects and personal branding. Built with Next.js, TypeScript, Tailwind CSS, MDX, and more.',
@@ -111,13 +120,13 @@ const Projects: Project[] = [
     image: '/projects/unofficialmerch.png',
   },
   {
-    title: "egxo.fyi",
+    title: 'egxo.fyi',
     description:
       'An old blog created to document my journey as a developer. Built with Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.',
     href: 'https://egxo.fyi',
     years: ['2023'],
     type: 'project',
-    image: "/projects/egxo-fyi.png",
+    image: '/projects/egxo-fyi.png',
   },
   {
     title: 'EGXO v1',
