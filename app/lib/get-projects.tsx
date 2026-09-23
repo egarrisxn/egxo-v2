@@ -11,7 +11,6 @@ const Projects: Project[] = [
     type: 'project',
     image: '/projects/egxo-dev.png',
   },
-
   {
     title: 'QuikRes',
     description:
@@ -110,6 +109,15 @@ const Projects: Project[] = [
     years: ['2023'],
     type: 'project',
     image: '/projects/unofficialmerch.png',
+  },
+  {
+    title: "egxo.fyi",
+    description:
+      'An old blog created to document my journey as a developer. Built with Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.',
+    href: 'https://egxo.fyi',
+    years: ['2023'],
+    type: 'project',
+    image: "/projects/egxo-fyi.png",
   },
   {
     title: 'EGXO v1',
