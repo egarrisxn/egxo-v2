@@ -35,12 +35,12 @@ export default async function HomePage() {
           the world. Taking it one step at a time, guided by a Positive Mental Attitude (PMA).{' '}
           <Link href='/about'>Learn more </Link>about me and my world!
         </h2>
-        <h3>
+        {/* <h3>
           Available for work //{' '}
           <a href='/other/EG-US-RESUME-2026.pdf' download>
             Resume
           </a>
-        </h3>
+        </h3> */}
         <SpotifyNowPlaying />
       </header>
       <section className={styles.projects}>
